@@ -8,7 +8,7 @@ similar ones that deal with islands.
 If interested in my approaches I invite you to read the
 following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/07/02/count-sub-islands/
 
 Remember that one of the best ways to learn is to read and experiment.
 Practice makes perfect.
